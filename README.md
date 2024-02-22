@@ -32,5 +32,3 @@ Olá, me chamo Karina Moreira Custódio,
 
 ##
 Feito por Karina Moreira Custódio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/karina-moreira-custodio)
-
-<p align="center">em construção... 🚧</p>
