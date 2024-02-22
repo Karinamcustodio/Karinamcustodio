@@ -13,8 +13,9 @@ Olá, me chamo Karina Moreira Custódio,
 - Finalizando o curso de programação Full Stack em C#. Front-End, Back-End e Banco de dados.
 - Cursando Análise e Desenvolvimento de Sistemas.
 
-- Iniciando um projeto pessoal 🚀
-   - O desenvolvimento de um Sistena de Gestão e Engenharia Têxtil, para marcas de moda que estão iniciando.
+- Projetos em desenvolvimento: 🚀
+   - Sistema de Gestão e Engenharia Têxtil, para marcas de moda que estão iniciando.
+   - Sistema de Notificações, para representantes acompanharem o tempo entre as vendas de seus clientes.
 
   
 <h2>🛠 Tecnologias</h2>
