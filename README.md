@@ -10,7 +10,7 @@ Olá, me chamo Karina Moreira Custódio,
 
 - Estou em transição de carreira, paixão pela Engenharia, Analítica, Dev Full Stack.
 
-- Finalizando o curso de programação Full Stack em C#. Front-End, Back-End e Banco de dados.
+- Formada  no curso de programação Full Stack em linguagem C#. Front-End, Back-End e Banco de dados.
 - Cursando Análise e Desenvolvimento de Sistemas.
 
 - Projetos em desenvolvimento: 🚀
